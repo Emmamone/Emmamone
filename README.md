@@ -17,7 +17,7 @@ Flask | Scikit‑learn | Pandas | Git | VS Code | WPS
 
 ## 📫 联系我
 - 邮箱：2205774089@qq.com
-- 个人主页：https://Emmamone.github.io
+- 个人主页：https://github.com/Emmamone/Emmamone
 
 ## ✨ 小趣事
 > 一边上课一边做科创，享受把想法变成可运行代码的过程。
