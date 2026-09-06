@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi，我是 Emmamone
+> 🎓 计算机与大数据学院在读大学生，热爱编程与项目实践，持续学习成长中
 
+## 🧑‍🎓 关于我
+- 🔭 目前在做：Web前端、Python机器学习相关开发
+- 🌱 正在学习：Python、数据库、Flask、HTML/CSS/JS、机器学习算法；同时修读**数据采集与融合技术、大数据项目实践、大数据计算**等专业课程，夯实大数据方向技术基础
+- 👯 希望可以和大家交流校园科创、竞赛相关内容
+- 💬 欢迎和我讨论：前端开发、数据处理、课程作业、创新创业项目
+- ⚡ 爱好：研究新技术，喜欢折腾各类小项目
+
+## 🛠️ 技术栈
+**编程语言**
+Python | HTML | CSS | JavaScript | SQL
+
+**工具&框架**
+Flask | Scikit‑learn | Pandas | Git | VS Code | WPS
+
+## 📫 联系我
+- 邮箱：2205774089@qq.com
+- 个人主页：https://Emmamone.github.io
+
+## ✨ 小趣事
+> 一边上课一边做科创，享受把想法变成可运行代码的过程。
+
+<!-- 可选，复制启用徽章 -->
 <!--
-**Emmamone/Emmamone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
